@@ -8,7 +8,7 @@
     "e": "0.0.4",
     "firebase": "^5.5.7",
     "jquery": "^3.4.1",
-    "moment": "^2.20.1",
+    "moment": "^2.29.4",
     "react": "^16.2.0",
     "react-bootstrap": "^0.32.4",
     "react-datepicker": "^1.1.0",
